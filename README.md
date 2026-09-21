@@ -144,7 +144,7 @@ pip install catboost xgboost lightgbm scikit-learn optuna==3.6.1 shap onnxruntim
 
 If you use this code or dataset in your work, please cite:
 
-> Abid, M. N. U., Anika, S., & Shakib, M. S. A. S. (2026). *Prediction of Ultimate Load for High-Strength Steel Tubular T-Joints Using Machine Learning Techniques*. B.Sc. Thesis, Department of BECM, Rajshahi University of Engineering & Technology, Bangladesh.
+>  Anika, S.,Abid, M. N. U., & Shakib, M. S. A. S. (2026). *Prediction of Ultimate Load for High-Strength Steel Tubular T-Joints Using Machine Learning Techniques*. B.Sc. Thesis, Department of BECM, Rajshahi University of Engineering & Technology, Bangladesh.
 
 ---
 
