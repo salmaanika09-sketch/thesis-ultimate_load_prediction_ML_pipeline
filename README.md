@@ -96,7 +96,7 @@ A controlled ablation experiment with paired Wilcoxon testing showed that **remo
 
 The trained CatBoost model is exported to **ONNX format** and runs directly in the browser via ONNX Runtime Web. The tool is deployed as a self-contained HTML page on Netlify — no server, no backend, no installation required.
 
-🔗 [Live predictor →](https://your-netlify-link-here)
+🔗 [Live predictor →](https://startling-kelpie-2d62c0.netlify.app/)
 
 ---
 
